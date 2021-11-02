@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+https://laughing-bartik-0a91b2.netlify.app
 <img src='https://github.com/Josimar-Victoria/quien-quiere-ser-millonario-/blob/main/Captura%20de%20pantalla%20de%202021-11-02%2014-39-15.png?raw=true' alt='ins'/>
 <img src='https://github.com/Josimar-Victoria/quien-quiere-ser-millonario-/blob/main/Captura%20de%20pantalla%20de%202021-11-02%2014-42-38.png?raw=true' alt='hs'/>
 
